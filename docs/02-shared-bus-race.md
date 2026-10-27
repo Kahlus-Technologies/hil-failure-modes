@@ -1,6 +1,6 @@
 # 2. Shared-bus timing/race (I2C multi-device)
 
-**Status: NOT YET CAPTURED — description and reproduction plan only, no bench trace yet.**
+**Stage: Protocol drafted. Next: bench validation.**
 
 ## The bug
 

@@ -1,6 +1,6 @@
 # 6. Clock config drift (PLL/wait-state mismatch)
 
-**Status: NOT YET CAPTURED — description and reproduction plan only, no bench trace yet.**
+**Stage: Protocol drafted. Next: bench validation.**
 
 ## The bug
 

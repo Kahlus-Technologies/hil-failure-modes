@@ -1,6 +1,6 @@
 # 1. Peripheral init ordering
 
-**Status: NOT YET CAPTURED — description and reproduction plan only, no bench trace yet.**
+**Stage: Protocol drafted. Next: bench validation.**
 
 ## The bug
 
